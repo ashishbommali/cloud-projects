@@ -1,0 +1,12 @@
+.tabs >button{
+    display: block;
+    text-transform: uppercase;
+}
+
+.tabs >button.active,
+.tabs >button:hover{
+    color: purple;
+}
+.tabs >button.active{
+    font-weight: bold;
+}

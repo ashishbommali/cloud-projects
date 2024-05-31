@@ -1,0 +1,12 @@
+export { default as Nav } from './Nav';
+export { default as Form } from './Form';
+export { default as Posts } from './Posts';
+export { default as Modal } from './Modal';
+export { default as People } from './People';
+export { default as Public } from './Public';
+export { default as Footer } from './Footer';
+export { default as Friends } from './Friends';
+export { default as Messages } from './Messages';
+export { default as Requests } from './Requests';
+export { default as Protected } from './Protected';
+export { default as Notifications } from './Notifications';
